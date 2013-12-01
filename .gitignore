@@ -3,3 +3,5 @@
 /.ropeproject
 .\#*
 /output/*
+*.egg
+*.egg-info
