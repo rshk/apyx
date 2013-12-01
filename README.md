@@ -78,3 +78,6 @@ antipixels = {
 
 For a complete example, have a look at ``apyx_example.py``, in the main
 project folder.
+
+-----
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/rshk/apyx/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
