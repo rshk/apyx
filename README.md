@@ -1,4 +1,4 @@
-# APyX - Simple Python-powered Antipixel geneation library
+# APyX - Simple Python-powered Antipixel generation library
 
 This library provides facilities for generating programmatically
 Antipixels from Python.
