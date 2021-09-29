@@ -6,6 +6,9 @@ Antipixels from Python.
 This is especially useful if you want to quickly generate batches
 of antipixels.
 
+## Dependencies
+
+`pip install -r requirements.txt`
 
 ## Usage example
 
@@ -78,6 +81,3 @@ antipixels = {
 
 For a complete example, have a look at ``apyx_example.py``, in the main
 project folder.
-
------
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/rshk/apyx/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
