@@ -52,7 +52,7 @@ if __name__ == '__main__':
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
-    for name, config in antipixels.iteritems():
+    for name, config in antipixels.items():
         if 'base' not in config:
             config['base'] = default_base
         print("Creating antipixel {0}".format(name))
