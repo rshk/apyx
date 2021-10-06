@@ -6,9 +6,9 @@ Antipixels from Python.
 This is especially useful if you want to quickly generate batches
 of antipixels.
 
-## Dependencies
+## Installation
 
-`pip install -r requirements.txt`
+`pip install .`
 
 ## Usage example
 
